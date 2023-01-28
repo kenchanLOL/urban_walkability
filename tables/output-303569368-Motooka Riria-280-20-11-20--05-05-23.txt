@@ -1,0 +1,281 @@
+"left","right","choice"
+"/public/images/team 9 (yau ma tei)_sze cheuk fung (bosco)_41.jpg","/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_240.jpg",0
+"/public/images/team 1 (kwun tong)_tam shun hei (marco)_233.jpg","/public/images/team 15 (prince edward)_tsoi wan sze (lydia)_3.jpg",0
+"/public/images/team 4 (north point)_kwok shun wang (clement)_148.jpg","/public/images/team 1 (kwun tong)_fung hon yin (jeffrey)_13.jpg",1
+"/public/images/team 13 (sai ying pun)_tse man ho (harry)_150.jpg","/public/images/team 12 (whampoa)_lam chun ho (johnny)_144.jpg",1
+"/public/images/team 10 (causeway bay)_lui yee ching (daphne)_116.jpg","/public/images/team 9 (yau ma tei)_lam pak hei (jason) & chan lok hin (samuel)_193.jpg",1
+"/public/images/team 1 (kwun tong)_tsang yan chak_175.jpg","/public/images/team 10 (causeway bay)_ng man yee (mandy)_223.jpg",1
+"/public/images/team 11 (wan chai)_chen difei (peter)_185.jpg","/public/images/team 11 (wan chai)_chen difei (peter)_46.jpg",0
+"/public/images/team 14 (tsim sha tsui)_li ka chun (john)_65.jpg","/public/images/team 16 (tin hau)_cheung cheuk man (chevy)_136.jpg",0
+"/public/images/team 12 (whampoa)_tam chin hang (nigel)_212.jpg","/public/images/team 7 (chai wan)_chu kwan in (ada)_69.jpg",0
+"/public/images/team 13 (sai ying pun)_cheung ka fai (jason)_210.jpg","/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_388.jpg",0
+"/public/images/team 1 (kwun tong)_wu chun kuen (jacky)_186.jpg","/public/images/team 2 (tsuen wan)_yu pak yin (jarvis)_175.jpg",0
+"/public/images/team 7 (chai wan)_lee sz yu (candy)_11.jpg","/public/images/team 13 (sai ying pun)_siu ka sing (benny)_21.jpg",1
+"/public/images/team 4 (north point)_kwok shun wang (clement)_150.jpg","/public/images/team 16 (tin hau)_cheung cheuk man (chevy)_123.jpg",0
+"/public/images/team 2 (tsuen wan)_yu pak yin (jarvis)_31.jpg","/public/images/team 8 (central)_ko wai ki (vicky)_69.jpg",1
+"/public/images/team 16 (tin hau)_cheung cheuk man (chevy)_74.jpg","/public/images/team 13 (sai ying pun)_wan hing yin (james)_163.jpg",0
+"/public/images/team 13 (sai ying pun)_siu ka sing (benny)_123.jpg","/public/images/team 8 (central)_ko wai ki (vicky)_99.jpg",1
+"/public/images/team 7 (chai wan)_chu kwan in (ada)_228.jpg","/public/images/team 13 (sai ying pun)_chan hoi wang (billy)_68.jpg",0
+"/public/images/team 11 (wan chai)_li wo him (herbert)_76.jpg","/public/images/team 7 (chai wan)_chun yuet lam (alisha)_71.jpg",1
+"/public/images/team 13 (sai ying pun)_thadani simran sanjay_35.jpg","/public/images/team 5 (tai koo)_co sam wendell chen_212.jpg",1
+"/public/images/team 7 (chai wan)_lee sz yu (candy)_12.jpg","/public/images/team 8 (central)_lagarde andrea jane miranda_149.jpg",0
+"/public/images/team 12 (whampoa)_lam chun ho (johnny)_216.jpg","/public/images/team 11 (wan chai)_wang yining (elaine)_158.jpg",1
+"/public/images/team 12 (whampoa)_tam chin hang (nigel)_206.jpg","/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_74.jpg",0
+"/public/images/team 6 (kowloon tong)_dhruv aggarwal_153.jpg","/public/images/team 3 (sheung wan)_chan man tik (jacob)_72.jpg",0
+"/public/images/team 1 (kwun tong)_tam shun hei (marco)_219.jpg","/public/images/team 15 (prince edward)_luk chin kiu (brian)_239.jpg",0
+"/public/images/team 8 (central)_lagarde andrea jane miranda_127.jpg","/public/images/team 6 (kowloon tong)_kwok cheuk ki (jacky)_39.jpg",1
+"/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_97.jpg","/public/images/team 13 (sai ying pun)_tse man ho (harry)_205.jpg",1
+"/public/images/team 9 (yau ma tei)_lam pak hei (jason) & chan lok hin (samuel)_3.jpg","/public/images/team 11 (wan chai)_li wo him (herbert)_160.jpg",1
+"/public/images/team 14 (tsim sha tsui)_fung ho kit (justin)_70.jpg","/public/images/team 12 (whampoa)_lam chun ho (johnny)_147.jpg",1
+"/public/images/team 13 (sai ying pun)_thadani simran sanjay_193.jpg","/public/images/team 6 (kowloon tong)_chay hiu wai (justina) & pang king chi (didia)_110.jpg",1
+"/public/images/team 13 (sai ying pun)_tse man ho (harry)_73.jpg","/public/images/team 14 (tsim sha tsui)_fung nga yin (andrea)_219.jpg",0
+"/public/images/team 3 (sheung wan)_chan man tik (jacob)_7.jpg","/public/images/team 1 (kwun tong)_shiu ming chi (simon)_55.jpg",0
+"/public/images/team 5 (tai koo)_guillemot raphaele michelle_40.jpg","/public/images/team 12 (whampoa)_tam chin hang (nigel)_97.jpg",1
+"/public/images/team 7 (chai wan)_lee sz yu (candy)_120.jpg","/public/images/team 15 (prince edward)_tsoi wan sze (lydia)_40.jpg",0
+"/public/images/team 8 (central)_wu yee (yuki)_68.jpg","/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_162.jpg",1
+"/public/images/team 16 (tin hau)_pang masami_77.jpg","/public/images/team 6 (kowloon tong)_dhruv aggarwal_178.jpg",1
+"/public/images/team 9 (yau ma tei)_au lai yu (matthew)_130.jpg","/public/images/team 14 (tsim sha tsui)_wong wing chung (zach)_3.jpg",0
+"/public/images/team 2 (tsuen wan)_zhang jie (jackie)_210.jpg","/public/images/team 13 (sai ying pun)_cheung ka fai (jason)_53.jpg",1
+"/public/images/team 12 (whampoa)_tam chin hang (nigel)_137.jpg","/public/images/team 5 (tai koo)_guillemot raphaele michelle_242.jpg",1
+"/public/images/team 5 (tai koo)_guillemot raphaele michelle_203.jpg","/public/images/team 12 (whampoa)_chau kin on (mark)_96.jpg",0
+"/public/images/team 9 (yau ma tei)_au lai yu (matthew)_93.jpg","/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_339.jpg",0
+"/public/images/team 14 (tsim sha tsui)_wong wing chung (zach)_201.jpg","/public/images/team 13 (sai ying pun)_tse man ho (harry)_239.jpg",1
+"/public/images/team 9 (yau ma tei)_au lai yu (matthew)_155.jpg","/public/images/team 11 (wan chai)_wong hei lam (ryan) & chau chun hung (jaco)_183.jpg",1
+"/public/images/team 5 (tai koo)_co sam wendell chen_211.jpg","/public/images/team 13 (sai ying pun)_siu ka sing (benny)_235.jpg",1
+"/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_461.jpg","/public/images/team 2 (tsuen wan)_yu pak yin (jarvis)_239.jpg",1
+"/public/images/team 3 (sheung wan)_poon tsz yeung (jay)_174.jpg","/public/images/team 2 (tsuen wan)_lee tsz ngai (jason)_132.jpg",1
+"/public/images/team 3 (sheung wan)_poon tsz yeung (jay)_140.jpg","/public/images/team 4 (north point)_kwok shun wang (clement)_223.jpg",1
+"/public/images/team 5 (tai koo)_co sam wendell chen_161.jpg","/public/images/team 14 (tsim sha tsui)_fung nga yin (andrea)_252.jpg",1
+"/public/images/team 3 (sheung wan)_wong sum yee (jenny)_98.jpg","/public/images/team 3 (sheung wan)_chan man tik (jacob)_101.jpg",0
+"/public/images/team 14 (tsim sha tsui)_fung ho kit (justin)_264.jpg","/public/images/team 13 (sai ying pun)_tse man ho (harry)_141.jpg",0
+"/public/images/team 14 (tsim sha tsui)_fung ho kit (justin)_42.jpg","/public/images/team 14 (tsim sha tsui)_fung ho kit (justin)_140.jpg",0
+"/public/images/team 15 (prince edward)_tsoi wan sze (lydia)_207.jpg","/public/images/team 8 (central)_yiu sze wan (sharon)_235.jpg",0
+"/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_244.jpg","/public/images/team 3 (sheung wan)_ma wai lam (nicole)_199.jpg",0
+"/public/images/team 15 (prince edward)_liu leong (dennis)_37.jpg","/public/images/team 17 (kennedy town)_yuan shuwen (wendy)_96.jpg",1
+"/public/images/team 4 (north point)_tang chun bun (chris)_112.jpg","/public/images/team 11 (wan chai)_chen difei (peter)_82.jpg",0
+"/public/images/team 3 (sheung wan)_chan man tik (jacob)_165.jpg","/public/images/team 11 (wan chai)_wang yining (elaine)_186.jpg",0
+"/public/images/team 2 (tsuen wan)_yu pak yin (jarvis)_47.jpg","/public/images/team 13 (sai ying pun)_siu ka sing (benny)_226.jpg",1
+"/public/images/team 11 (wan chai)_wong hei lam (ryan) & chau chun hung (jaco)_183.jpg","/public/images/team 2 (tsuen wan)_ha chun ming (rex)_11.jpg",0
+"/public/images/team 17 (kennedy town)_guo ruoxuan (tim)_97.jpg","/public/images/team 10 (causeway bay)_ng man yee (mandy)_224.jpg",0
+"/public/images/team 13 (sai ying pun)_chan hoi wang (billy)_105.jpg","/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_347.jpg",0
+"/public/images/team 5 (tai koo)_kwok chung yin (gloria)_94.jpg","/public/images/team 6 (kowloon tong)_wong ho yeung (brian) & chan yin kei (myron)_97.jpg",0
+"/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_168.jpg","/public/images/team 8 (central)_wu yee (yuki)_13.jpg",0
+"/public/images/team 8 (central)_lee wing kei (becky)_190.jpg","/public/images/team 15 (prince edward)_tsoi wan sze (lydia)_201.jpg",0
+"/public/images/team 11 (wan chai)_li wo him (herbert)_193.jpg","/public/images/team 6 (kowloon tong)_chay hiu wai (justina) & pang king chi (didia)_287.jpg",0
+"/public/images/team 14 (tsim sha tsui)_fung nga yin (andrea)_193.jpg","/public/images/team 6 (kowloon tong)_dhruv aggarwal_110.jpg",1
+"/public/images/team 2 (tsuen wan)_ha chun ming (rex)_57.jpg","/public/images/team 8 (central)_ko wai ki (vicky)_155.jpg",0
+"/public/images/team 14 (tsim sha tsui)_fung nga yin (andrea)_82.jpg","/public/images/team 4 (north point)_li lok yin (stephy)_221.jpg",1
+"/public/images/team 13 (sai ying pun)_siu ka sing (benny)_3.jpg","/public/images/team 8 (central)_yiu sze wan (sharon)_34.jpg",1
+"/public/images/team 15 (prince edward)_luk chin kiu (brian)_219.jpg","/public/images/team 9 (yau ma tei)_sze cheuk fung (bosco)_174.jpg",1
+"/public/images/team 1 (kwun tong)_shiu ming chi (simon)_141.jpg","/public/images/team 11 (wan chai)_wang yining (elaine)_110.jpg",0
+"/public/images/team 13 (sai ying pun)_wan hing yin (james)_51.jpg","/public/images/team 17 (kennedy town)_tang zike_92.jpg",1
+"/public/images/team 15 (prince edward)_soh wai heng_132.jpg","/public/images/team 9 (yau ma tei)_lam pak hei (jason) & chan lok hin (samuel)_127.jpg",1
+"/public/images/team 13 (sai ying pun)_cheung ka fai (jason)_86.jpg","/public/images/team 2 (tsuen wan)_ha chun ming (rex)_142.jpg",0
+"/public/images/team 10 (causeway bay)_ng man yee (mandy)_138.jpg","/public/images/team 10 (causeway bay)_wong hao (isaac)_152.jpg",0
+"/public/images/team 2 (tsuen wan)_lee tsz ngai (jason)_229.jpg","/public/images/team 10 (causeway bay)_leung lok sze (angie)_141.jpg",0
+"/public/images/team 12 (whampoa)_vansh manoj jain_198.jpg","/public/images/team 9 (yau ma tei)_sze cheuk fung (bosco)_41.jpg",0
+"/public/images/team 6 (kowloon tong)_kwok cheuk ki (jacky)_183.jpg","/public/images/team 5 (tai koo)_chen apple_162.jpg",1
+"/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_310.jpg","/public/images/team 16 (tin hau)_pang masami_11.jpg",1
+"/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_141.jpg","/public/images/team 13 (sai ying pun)_siu ka sing (benny)_152.jpg",1
+"/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_176.jpg","/public/images/team 8 (central)_lee wing kei (becky)_80.jpg",0
+"/public/images/team 6 (kowloon tong)_wong ho yeung (brian) & chan yin kei (myron)_106.jpg","/public/images/team 13 (sai ying pun)_cheung ka fai (jason)_226.jpg",0
+"/public/images/team 4 (north point)_kwan sheung lai (harry)_207.jpg","/public/images/team 13 (sai ying pun)_thadani simran sanjay_93.jpg",0
+"/public/images/team 6 (kowloon tong)_kwok cheuk ki (jacky)_66.jpg","/public/images/team 4 (north point)_kong ling chuen (zoe)_2.jpg",1
+"/public/images/team 4 (north point)_chan kei yan (candy)_223.jpg","/public/images/team 11 (wan chai)_chen difei (peter)_188.jpg",1
+"/public/images/team 4 (north point)_tang chun bun (chris)_202.jpg","/public/images/team 9 (yau ma tei)_au lai yu (matthew)_129.jpg",1
+"/public/images/team 13 (sai ying pun)_cheung ka fai (jason)_105.jpg","/public/images/team 1 (kwun tong)_kwok chun ting (alex)_54.jpg",0
+"/public/images/team 13 (sai ying pun)_tse man ho (harry)_190.jpg","/public/images/team 15 (prince edward)_soh wai heng_174.jpg",0
+"/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_298.jpg","/public/images/team 3 (sheung wan)_poon tsz yeung (jay)_118.jpg",1
+"/public/images/team 15 (prince edward)_soh wai heng_32.jpg","/public/images/team 2 (tsuen wan)_zhang jie (jackie)_49.jpg",1
+"/public/images/team 10 (causeway bay)_leung lok sze (angie)_167.jpg","/public/images/team 3 (sheung wan)_ma wai lam (nicole)_199.jpg",1
+"/public/images/team 14 (tsim sha tsui)_li ka chun (john)_52.jpg","/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_358.jpg",0
+"/public/images/team 8 (central)_wu yee (yuki)_3.jpg","/public/images/team 12 (whampoa)_lam chun ho (johnny)_120.jpg",0
+"/public/images/team 14 (tsim sha tsui)_chan trisha_28.jpg","/public/images/team 9 (yau ma tei)_sze cheuk fung (bosco)_110.jpg",1
+"/public/images/team 13 (sai ying pun)_wan hing yin (james)_214.jpg","/public/images/team 3 (sheung wan)_ma wai lam (nicole)_204.jpg",0
+"/public/images/team 12 (whampoa)_tam chin hang (nigel)_46.jpg","/public/images/team 6 (kowloon tong)_chay hiu wai (justina) & pang king chi (didia)_86.jpg",1
+"/public/images/team 15 (prince edward)_luk chin kiu (brian)_197.jpg","/public/images/team 6 (kowloon tong)_kwok cheuk ki (jacky)_189.jpg",1
+"/public/images/team 10 (causeway bay)_leung lok sze (angie)_119.jpg","/public/images/team 14 (tsim sha tsui)_fung nga yin (andrea)_139.jpg",1
+"/public/images/team 2 (tsuen wan)_lee tsz ngai (jason)_229.jpg","/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_430.jpg",0
+"/public/images/team 2 (tsuen wan)_ha chun ming (rex)_56.jpg","/public/images/team 6 (kowloon tong)_dhruv aggarwal_30.jpg",0
+"/public/images/team 12 (whampoa)_tam chin hang (nigel)_40.jpg","/public/images/team 14 (tsim sha tsui)_fung ho kit (justin)_20.jpg",0
+"/public/images/team 12 (whampoa)_tam chin hang (nigel)_97.jpg","/public/images/team 6 (kowloon tong)_wong ho yeung (brian) & chan yin kei (myron)_97.jpg",0
+"/public/images/team 1 (kwun tong)_shiu ming chi (simon)_56.jpg","/public/images/team 4 (north point)_kwan sheung lai (harry)_73.jpg",0
+"/public/images/team 11 (wan chai)_wang yining (elaine)_205.jpg","/public/images/team 9 (yau ma tei)_au lai yu (matthew)_30.jpg",1
+"/public/images/team 14 (tsim sha tsui)_chan trisha_216.jpg","/public/images/team 2 (tsuen wan)_zhang jie (jackie)_146.jpg",0
+"/public/images/team 11 (wan chai)_wang yining (elaine)_110.jpg","/public/images/team 11 (wan chai)_wang yining (elaine)_63.jpg",1
+"/public/images/team 12 (whampoa)_vansh manoj jain_195.jpg","/public/images/team 12 (whampoa)_lam chun ho (johnny)_224.jpg",1
+"/public/images/team 8 (central)_lee wing kei (becky)_80.jpg","/public/images/team 1 (kwun tong)_tam shun hei (marco)_219.jpg",1
+"/public/images/team 13 (sai ying pun)_cheung ka fai (jason)_117.jpg","/public/images/team 13 (sai ying pun)_wan hing yin (james)_171.jpg",0
+"/public/images/team 6 (kowloon tong)_dhruv aggarwal_165.jpg","/public/images/team 2 (tsuen wan)_yu pak yin (jarvis)_164.jpg",1
+"/public/images/team 17 (kennedy town)_guo ruoxuan (tim)_104.jpg","/public/images/team 5 (tai koo)_guillemot raphaele michelle_6.jpg",1
+"/public/images/team 15 (prince edward)_tsoi wan sze (lydia)_162.jpg","/public/images/team 3 (sheung wan)_ma wai lam (nicole)_181.jpg",0
+"/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_41.jpg","/public/images/team 13 (sai ying pun)_chan hoi wang (billy)_137.jpg",1
+"/public/images/team 7 (chai wan)_lee sz yu (candy)_168.jpg","/public/images/team 17 (kennedy town)_guo ruoxuan (tim)_189.jpg",0
+"/public/images/team 1 (kwun tong)_tam shun hei (marco)_238.jpg","/public/images/team 14 (tsim sha tsui)_chan trisha_202.jpg",0
+"/public/images/team 17 (kennedy town)_tang zike_144.jpg","/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_358.jpg",0
+"/public/images/team 9 (yau ma tei)_lam pak hei (jason) & chan lok hin (samuel)_296.jpg","/public/images/team 5 (tai koo)_guillemot raphaele michelle_203.jpg",1
+"/public/images/team 16 (tin hau)_cheung cheuk man (chevy)_198.jpg","/public/images/team 5 (tai koo)_kwok chung yin (gloria)_103.jpg",1
+"/public/images/team 14 (tsim sha tsui)_fung nga yin (andrea)_257.jpg","/public/images/team 17 (kennedy town)_tang zike_79.jpg",0
+"/public/images/team 8 (central)_yiu sze wan (sharon)_49.jpg","/public/images/team 14 (tsim sha tsui)_li ka chun (john)_68.jpg",0
+"/public/images/team 12 (whampoa)_lam chun ho (johnny)_60.jpg","/public/images/team 7 (chai wan)_lee sz yu (candy)_206.jpg",1
+"/public/images/team 14 (tsim sha tsui)_chan trisha_15.jpg","/public/images/team 2 (tsuen wan)_yu pak yin (jarvis)_92.jpg",1
+"/public/images/team 3 (sheung wan)_wong sum yee (jenny)_157.jpg","/public/images/team 9 (yau ma tei)_au lai yu (matthew)_49.jpg",1
+"/public/images/team 8 (central)_wu yee (yuki)_83.jpg","/public/images/team 8 (central)_ko wai ki (vicky)_157.jpg",1
+"/public/images/team 14 (tsim sha tsui)_wong wing chung (zach)_10.jpg","/public/images/team 7 (chai wan)_chun yuet lam (alisha)_15.jpg",0
+"/public/images/team 14 (tsim sha tsui)_li ka chun (john)_49.jpg","/public/images/team 3 (sheung wan)_wong sum yee (jenny)_136.jpg",0
+"/public/images/team 13 (sai ying pun)_tse man ho (harry)_139.jpg","/public/images/team 12 (whampoa)_lau chun san (percy)_85.jpg",1
+"/public/images/team 1 (kwun tong)_kwok chun ting (alex)_43.jpg","/public/images/team 17 (kennedy town)_yuan shuwen (wendy)_69.jpg",0
+"/public/images/team 9 (yau ma tei)_sze cheuk fung (bosco)_156.jpg","/public/images/team 12 (whampoa)_tam chin hang (nigel)_150.jpg",1
+"/public/images/team 1 (kwun tong)_tsang yan chak_107.jpg","/public/images/team 15 (prince edward)_luk chin kiu (brian)_95.jpg",0
+"/public/images/team 4 (north point)_kong ling chuen (zoe)_234.jpg","/public/images/team 14 (tsim sha tsui)_wong wing chung (zach)_19.jpg",0
+"/public/images/team 14 (tsim sha tsui)_fung nga yin (andrea)_17.jpg","/public/images/team 10 (causeway bay)_leung lok sze (angie)_220.jpg",1
+"/public/images/team 2 (tsuen wan)_ha chun ming (rex)_171.jpg","/public/images/team 11 (wan chai)_cheng chak kong (kelvin)_30.jpg",1
+"/public/images/team 12 (whampoa)_lam chun ho (johnny)_168.jpg","/public/images/team 14 (tsim sha tsui)_fung ho kit (justin)_35.jpg",1
+"/public/images/team 14 (tsim sha tsui)_fung nga yin (andrea)_87.jpg","/public/images/team 9 (yau ma tei)_lam pak hei (jason) & chan lok hin (samuel)_73.jpg",1
+"/public/images/team 15 (prince edward)_luk chin kiu (brian)_197.jpg","/public/images/team 8 (central)_wu yee (yuki)_191.jpg",0
+"/public/images/team 12 (whampoa)_vansh manoj jain_89.jpg","/public/images/team 5 (tai koo)_chau chun yiu (daniel)_222.jpg",1
+"/public/images/team 3 (sheung wan)_wong sum yee (jenny)_236.jpg","/public/images/team 6 (kowloon tong)_kwok cheuk ki (jacky)_60.jpg",1
+"/public/images/team 4 (north point)_kong ling chuen (zoe)_200.jpg","/public/images/team 4 (north point)_kwan sheung lai (harry)_153.jpg",1
+"/public/images/team 15 (prince edward)_soh wai heng_218.jpg","/public/images/team 11 (wan chai)_cheng chak kong (kelvin)_18.jpg",1
+"/public/images/team 4 (north point)_kong ling chuen (zoe)_1.jpg","/public/images/team 3 (sheung wan)_ma wai lam (nicole)_172.jpg",1
+"/public/images/team 3 (sheung wan)_ma wai lam (nicole)_158.jpg","/public/images/team 4 (north point)_li lok yin (stephy)_203.jpg",0
+"/public/images/team 6 (kowloon tong)_chay hiu wai (justina) & pang king chi (didia)_170.jpg","/public/images/team 12 (whampoa)_lau chun san (percy)_205.jpg",0
+"/public/images/team 13 (sai ying pun)_tse man ho (harry)_138.jpg","/public/images/team 12 (whampoa)_lam chun ho (johnny)_27.jpg",1
+"/public/images/team 13 (sai ying pun)_tse man ho (harry)_150.jpg","/public/images/team 6 (kowloon tong)_dhruv aggarwal_153.jpg",1
+"/public/images/team 8 (central)_lagarde andrea jane miranda_28.jpg","/public/images/team 13 (sai ying pun)_siu ka sing (benny)_19.jpg",1
+"/public/images/team 14 (tsim sha tsui)_lee jae hyun (gale)_107.jpg","/public/images/team 8 (central)_lagarde andrea jane miranda_155.jpg",0
+"/public/images/team 13 (sai ying pun)_siu ka sing (benny)_215.jpg","/public/images/team 12 (whampoa)_lam chun ho (johnny)_13.jpg",1
+"/public/images/team 5 (tai koo)_chau chun yiu (daniel)_45.jpg","/public/images/team 8 (central)_lee wing kei (becky)_146.jpg",1
+"/public/images/team 14 (tsim sha tsui)_lee jae hyun (gale)_135.jpg","/public/images/team 5 (tai koo)_chen apple_39.jpg",1
+"/public/images/team 11 (wan chai)_wang yining (elaine)_63.jpg","/public/images/team 15 (prince edward)_tsoi wan sze (lydia)_22.jpg",0
+"/public/images/team 11 (wan chai)_cheng chak kong (kelvin)_32.jpg","/public/images/team 12 (whampoa)_chau kin on (mark)_117.jpg",1
+"/public/images/team 15 (prince edward)_liu leong (dennis)_234.jpg","/public/images/team 14 (tsim sha tsui)_chan trisha_146.jpg",1
+"/public/images/team 8 (central)_lee wing kei (becky)_201.jpg","/public/images/team 8 (central)_lagarde andrea jane miranda_201.jpg",1
+"/public/images/team 9 (yau ma tei)_au lai yu (matthew)_16.jpg","/public/images/team 10 (causeway bay)_ng man yee (mandy)_156.jpg",1
+"/public/images/team 4 (north point)_kwok shun wang (clement)_224.jpg","/public/images/team 2 (tsuen wan)_zhang jie (jackie)_108.jpg",0
+"/public/images/team 9 (yau ma tei)_sze cheuk fung (bosco)_156.jpg","/public/images/team 6 (kowloon tong)_wong ho yeung (brian) & chan yin kei (myron)_114.jpg",0
+"/public/images/team 5 (tai koo)_chen apple_117.jpg","/public/images/team 10 (causeway bay)_ng man yee (mandy)_156.jpg",1
+"/public/images/team 13 (sai ying pun)_thadani simran sanjay_193.jpg","/public/images/team 5 (tai koo)_guillemot raphaele michelle_107.jpg",1
+"/public/images/team 14 (tsim sha tsui)_chan trisha_232.jpg","/public/images/team 1 (kwun tong)_wu chun kuen (jacky)_208.jpg",1
+"/public/images/team 5 (tai koo)_co sam wendell chen_194.jpg","/public/images/team 10 (causeway bay)_ng man yee (mandy)_96.jpg",1
+"/public/images/team 17 (kennedy town)_tang zike_98.jpg","/public/images/team 2 (tsuen wan)_yu pak yin (jarvis)_197.jpg",1
+"/public/images/team 12 (whampoa)_lam chun ho (johnny)_166.jpg","/public/images/team 7 (chai wan)_lee sz yu (candy)_63.jpg",1
+"/public/images/team 14 (tsim sha tsui)_fung nga yin (andrea)_182.jpg","/public/images/team 2 (tsuen wan)_yu pak yin (jarvis)_62.jpg",1
+"/public/images/team 5 (tai koo)_chen apple_93.jpg","/public/images/team 4 (north point)_li lok yin (stephy)_217.jpg",0
+"/public/images/team 1 (kwun tong)_tsang yan chak_106.jpg","/public/images/team 13 (sai ying pun)_thadani simran sanjay_230.jpg",0
+"/public/images/team 1 (kwun tong)_tsang yan chak_10.jpg","/public/images/team 11 (wan chai)_li wo him (herbert)_80.jpg",0
+"/public/images/team 1 (kwun tong)_tam shun hei (marco)_126.jpg","/public/images/team 11 (wan chai)_cheng chak kong (kelvin)_158.jpg",0
+"/public/images/team 14 (tsim sha tsui)_li ka chun (john)_140.jpg","/public/images/team 6 (kowloon tong)_dhruv aggarwal_231.jpg",1
+"/public/images/team 6 (kowloon tong)_chay hiu wai (justina) & pang king chi (didia)_324.jpg","/public/images/team 3 (sheung wan)_chan man tik (jacob)_82.jpg",0
+"/public/images/team 14 (tsim sha tsui)_wong wing chung (zach)_44.jpg","/public/images/team 7 (chai wan)_chu kwan in (ada)_89.jpg",1
+"/public/images/team 3 (sheung wan)_hou shing hei (hysan)_99.jpg","/public/images/team 12 (whampoa)_lam chun ho (johnny)_181.jpg",0
+"/public/images/team 3 (sheung wan)_chan man tik (jacob)_161.jpg","/public/images/team 6 (kowloon tong)_chay hiu wai (justina) & pang king chi (didia)_205.jpg",1
+"/public/images/team 13 (sai ying pun)_wan hing yin (james)_2.jpg","/public/images/team 13 (sai ying pun)_cheung ka fai (jason)_127.jpg",1
+"/public/images/team 8 (central)_yiu sze wan (sharon)_177.jpg","/public/images/team 15 (prince edward)_liu leong (dennis)_7.jpg",0
+"/public/images/team 5 (tai koo)_co sam wendell chen_29.jpg","/public/images/team 10 (causeway bay)_ng man yee (mandy)_178.jpg",1
+"/public/images/team 11 (wan chai)_wang yining (elaine)_196.jpg","/public/images/team 5 (tai koo)_guillemot raphaele michelle_53.jpg",1
+"/public/images/team 5 (tai koo)_chau chun yiu (daniel)_232.jpg","/public/images/team 13 (sai ying pun)_thadani simran sanjay_67.jpg",1
+"/public/images/team 4 (north point)_kwan sheung lai (harry)_173.jpg","/public/images/team 8 (central)_ko wai ki (vicky)_110.jpg",1
+"/public/images/team 15 (prince edward)_luk chin kiu (brian)_197.jpg","/public/images/team 2 (tsuen wan)_yu pak yin (jarvis)_154.jpg",0
+"/public/images/team 14 (tsim sha tsui)_li ka chun (john)_182.jpg","/public/images/team 15 (prince edward)_luk chin kiu (brian)_120.jpg",1
+"/public/images/team 14 (tsim sha tsui)_fung ho kit (justin)_53.jpg","/public/images/team 4 (north point)_kwok shun wang (clement)_152.jpg",0
+"/public/images/team 4 (north point)_li lok yin (stephy)_138.jpg","/public/images/team 5 (tai koo)_co sam wendell chen_173.jpg",0
+"/public/images/team 2 (tsuen wan)_lee tsz ngai (jason)_57.jpg","/public/images/team 9 (yau ma tei)_au lai yu (matthew)_70.jpg",0
+"/public/images/team 6 (kowloon tong)_wong ho yeung (brian) & chan yin kei (myron)_133.jpg","/public/images/team 16 (tin hau)_cheung cheuk man (chevy)_150.jpg",1
+"/public/images/team 5 (tai koo)_chau chun yiu (daniel)_146.jpg","/public/images/team 14 (tsim sha tsui)_wong wing chung (zach)_208.jpg",0
+"/public/images/team 12 (whampoa)_lam chun ho (johnny)_10.jpg","/public/images/team 15 (prince edward)_soh wai heng_19.jpg",0
+"/public/images/team 5 (tai koo)_co sam wendell chen_175.jpg","/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_351.jpg",1
+"/public/images/team 12 (whampoa)_lau chun san (percy)_191.jpg","/public/images/team 3 (sheung wan)_ma wai lam (nicole)_77.jpg",0
+"/public/images/team 10 (causeway bay)_ng man yee (mandy)_141.jpg","/public/images/team 14 (tsim sha tsui)_li ka chun (john)_190.jpg",0
+"/public/images/team 8 (central)_ko wai ki (vicky)_148.jpg","/public/images/team 14 (tsim sha tsui)_li ka chun (john)_118.jpg",0
+"/public/images/team 8 (central)_lagarde andrea jane miranda_244.jpg","/public/images/team 11 (wan chai)_cheng chak kong (kelvin)_199.jpg",0
+"/public/images/team 11 (wan chai)_wang yining (elaine)_113.jpg","/public/images/team 11 (wan chai)_wang yining (elaine)_76.jpg",0
+"/public/images/team 2 (tsuen wan)_zhang jie (jackie)_149.jpg","/public/images/team 2 (tsuen wan)_ha chun ming (rex)_199.jpg",1
+"/public/images/team 7 (chai wan)_chun yuet lam (alisha)_17.jpg","/public/images/team 3 (sheung wan)_hou shing hei (hysan)_178.jpg",0
+"/public/images/team 3 (sheung wan)_ma wai lam (nicole)_212.jpg","/public/images/team 5 (tai koo)_chau chun yiu (daniel)_139.jpg",1
+"/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_109.jpg","/public/images/team 13 (sai ying pun)_cheung ka fai (jason)_259.jpg",1
+"/public/images/team 13 (sai ying pun)_wan hing yin (james)_144.jpg","/public/images/team 10 (causeway bay)_lui yee ching (daphne)_288.jpg",1
+"/public/images/team 3 (sheung wan)_poon tsz yeung (jay)_82.jpg","/public/images/team 13 (sai ying pun)_cheung ka fai (jason)_253.jpg",0
+"/public/images/team 12 (whampoa)_vansh manoj jain_136.jpg","/public/images/team 5 (tai koo)_kwok chung yin (gloria)_32.jpg",1
+"/public/images/team 6 (kowloon tong)_dhruv aggarwal_14.jpg","/public/images/team 15 (prince edward)_luk chin kiu (brian)_219.jpg",1
+"/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_457.jpg","/public/images/team 4 (north point)_kwok shun wang (clement)_65.jpg",1
+"/public/images/team 16 (tin hau)_cheung cheuk man (chevy)_198.jpg","/public/images/team 10 (causeway bay)_ng man yee (mandy)_158.jpg",1
+"/public/images/team 12 (whampoa)_lau chun san (percy)_154.jpg","/public/images/team 5 (tai koo)_chen apple_45.jpg",0
+"/public/images/team 13 (sai ying pun)_tse man ho (harry)_163.jpg","/public/images/team 15 (prince edward)_tsoi wan sze (lydia)_175.jpg",0
+"/public/images/team 5 (tai koo)_guillemot raphaele michelle_27.jpg","/public/images/team 3 (sheung wan)_chan man tik (jacob)_9.jpg",1
+"/public/images/team 16 (tin hau)_cheung cheuk man (chevy)_166.jpg","/public/images/team 10 (causeway bay)_ng man yee (mandy)_27.jpg",1
+"/public/images/team 12 (whampoa)_chau kin on (mark)_165.jpg","/public/images/team 3 (sheung wan)_wong sum yee (jenny)_187.jpg",0
+"/public/images/team 15 (prince edward)_tsoi wan sze (lydia)_41.jpg","/public/images/team 4 (north point)_li lok yin (stephy)_191.jpg",0
+"/public/images/team 7 (chai wan)_lee sz yu (candy)_68.jpg","/public/images/team 8 (central)_wu yee (yuki)_239.jpg",1
+"/public/images/team 3 (sheung wan)_ma wai lam (nicole)_123.jpg","/public/images/team 15 (prince edward)_luk chin kiu (brian)_128.jpg",1
+"/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_519.jpg","/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_180.jpg",1
+"/public/images/team 14 (tsim sha tsui)_wong wing chung (zach)_222.jpg","/public/images/team 11 (wan chai)_cheng chak kong (kelvin)_6.jpg",0
+"/public/images/team 11 (wan chai)_chen difei (peter)_134.jpg","/public/images/team 7 (chai wan)_lee sz yu (candy)_83.jpg",0
+"/public/images/team 16 (tin hau)_cheung cheuk man (chevy)_49.jpg","/public/images/team 13 (sai ying pun)_siu ka sing (benny)_150.jpg",1
+"/public/images/team 2 (tsuen wan)_yu pak yin (jarvis)_60.jpg","/public/images/team 8 (central)_lagarde andrea jane miranda_18.jpg",1
+"/public/images/team 16 (tin hau)_cheung cheuk man (chevy)_31.jpg","/public/images/team 6 (kowloon tong)_dhruv aggarwal_110.jpg",1
+"/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_388.jpg","/public/images/team 7 (chai wan)_lee sz yu (candy)_120.jpg",1
+"/public/images/team 12 (whampoa)_lau chun san (percy)_243.jpg","/public/images/team 4 (north point)_kong ling chuen (zoe)_192.jpg",0
+"/public/images/team 10 (causeway bay)_ng man yee (mandy)_179.jpg","/public/images/team 12 (whampoa)_lam chun ho (johnny)_171.jpg",1
+"/public/images/team 4 (north point)_kong ling chuen (zoe)_200.jpg","/public/images/team 4 (north point)_kong ling chuen (zoe)_139.jpg",1
+"/public/images/team 5 (tai koo)_chen apple_117.jpg","/public/images/team 9 (yau ma tei)_lam pak hei (jason) & chan lok hin (samuel)_166.jpg",1
+"/public/images/team 12 (whampoa)_lau chun san (percy)_85.jpg","/public/images/team 5 (tai koo)_guillemot raphaele michelle_53.jpg",1
+"/public/images/team 6 (kowloon tong)_dhruv aggarwal_185.jpg","/public/images/team 15 (prince edward)_tsoi wan sze (lydia)_56.jpg",1
+"/public/images/team 10 (causeway bay)_lui yee ching (daphne)_300.jpg","/public/images/team 7 (chai wan)_chun yuet lam (alisha)_97.jpg",1
+"/public/images/team 4 (north point)_kwok shun wang (clement)_181.jpg","/public/images/team 10 (causeway bay)_wong hao (isaac)_121.jpg",1
+"/public/images/team 10 (causeway bay)_ng man yee (mandy)_27.jpg","/public/images/team 2 (tsuen wan)_zhang jie (jackie)_208.jpg",0
+"/public/images/team 9 (yau ma tei)_lam pak hei (jason) & chan lok hin (samuel)_9.jpg","/public/images/team 17 (kennedy town)_guo ruoxuan (tim)_103.jpg",1
+"/public/images/team 6 (kowloon tong)_kwok cheuk ki (jacky)_111.jpg","/public/images/team 5 (tai koo)_co sam wendell chen_29.jpg",0
+"/public/images/team 2 (tsuen wan)_ha chun ming (rex)_171.jpg","/public/images/team 13 (sai ying pun)_cheung ka fai (jason)_127.jpg",1
+"/public/images/team 8 (central)_yiu sze wan (sharon)_34.jpg","/public/images/team 13 (sai ying pun)_tse man ho (harry)_111.jpg",0
+"/public/images/team 10 (causeway bay)_wong hao (isaac)_245.jpg","/public/images/team 14 (tsim sha tsui)_chan trisha_16.jpg",1
+"/public/images/team 13 (sai ying pun)_chan hoi wang (billy)_114.jpg","/public/images/team 17 (kennedy town)_guo ruoxuan (tim)_151.jpg",1
+"/public/images/team 2 (tsuen wan)_zhang jie (jackie)_195.jpg","/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_472.jpg",0
+"/public/images/team 2 (tsuen wan)_yu pak yin (jarvis)_92.jpg","/public/images/team 13 (sai ying pun)_wan hing yin (james)_163.jpg",0
+"/public/images/team 13 (sai ying pun)_wan hing yin (james)_18.jpg","/public/images/team 6 (kowloon tong)_dhruv aggarwal_219.jpg",1
+"/public/images/team 9 (yau ma tei)_lam pak hei (jason) & chan lok hin (samuel)_186.jpg","/public/images/team 4 (north point)_li lok yin (stephy)_11.jpg",1
+"/public/images/team 8 (central)_ko wai ki (vicky)_82.jpg","/public/images/team 8 (central)_wu yee (yuki)_131.jpg",0
+"/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_135.jpg","/public/images/team 15 (prince edward)_tse yan tung (agnes)_14.jpg",0
+"/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_137.jpg","/public/images/team 8 (central)_lagarde andrea jane miranda_240.jpg",0
+"/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_90.jpg","/public/images/team 2 (tsuen wan)_yu pak yin (jarvis)_164.jpg",0
+"/public/images/team 17 (kennedy town)_yuan shuwen (wendy)_19.jpg","/public/images/team 9 (yau ma tei)_au lai yu (matthew)_74.jpg",0
+"/public/images/team 11 (wan chai)_wang yining (elaine)_33.jpg","/public/images/team 10 (causeway bay)_lui yee ching (daphne)_143.jpg",1
+"/public/images/team 11 (wan chai)_wang yining (elaine)_76.jpg","/public/images/team 14 (tsim sha tsui)_fung ho kit (justin)_14.jpg",1
+"/public/images/team 15 (prince edward)_liu leong (dennis)_211.jpg","/public/images/team 5 (tai koo)_kwok chung yin (gloria)_161.jpg",1
+"/public/images/team 13 (sai ying pun)_siu ka sing (benny)_175.jpg","/public/images/team 14 (tsim sha tsui)_wong wing chung (zach)_229.jpg",0
+"/public/images/team 3 (sheung wan)_ma wai lam (nicole)_156.jpg","/public/images/team 12 (whampoa)_vansh manoj jain_105.jpg",0
+"/public/images/team 14 (tsim sha tsui)_chan trisha_85.jpg","/public/images/team 11 (wan chai)_cheng chak kong (kelvin)_135.jpg",1
+"/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_472.jpg","/public/images/team 6 (kowloon tong)_chay hiu wai (justina) & pang king chi (didia)_306.jpg",1
+"/public/images/team 4 (north point)_kwok shun wang (clement)_168.jpg","/public/images/team 17 (kennedy town)_tang zike_142.jpg",0
+"/public/images/team 16 (tin hau)_pang masami_113.jpg","/public/images/team 2 (tsuen wan)_lee tsz ngai (jason)_65.jpg",1
+"/public/images/team 5 (tai koo)_kwok chung yin (gloria)_148.jpg","/public/images/team 10 (causeway bay)_ng man yee (mandy)_55.jpg",0
+"/public/images/team 14 (tsim sha tsui)_fung ho kit (justin)_141.jpg","/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_55.jpg",1
+"/public/images/team 5 (tai koo)_kwok chung yin (gloria)_22.jpg","/public/images/team 13 (sai ying pun)_thadani simran sanjay_46.jpg",0
+"/public/images/team 9 (yau ma tei)_lam pak hei (jason) & chan lok hin (samuel)_209.jpg","/public/images/team 14 (tsim sha tsui)_chan trisha_191.jpg",1
+"/public/images/team 13 (sai ying pun)_chan hoi wang (billy)_146.jpg","/public/images/team 5 (tai koo)_chen apple_209.jpg",1
+"/public/images/team 12 (whampoa)_tam chin hang (nigel)_28.jpg","/public/images/team 7 (chai wan)_chu kwan in (ada)_162.jpg",0
+"/public/images/team 4 (north point)_kwok shun wang (clement)_157.jpg","/public/images/team 4 (north point)_kwok shun wang (clement)_66.jpg",0
+"/public/images/team 6 (kowloon tong)_wong ho yeung (brian) & chan yin kei (myron)_237.jpg","/public/images/team 13 (sai ying pun)_siu ka sing (benny)_223.jpg",1
+"/public/images/team 10 (causeway bay)_leung lok sze (angie)_188.jpg","/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_271.jpg",0
+"/public/images/team 11 (wan chai)_li wo him (herbert)_35.jpg","/public/images/team 17 (kennedy town)_guo ruoxuan (tim)_103.jpg",0
+"/public/images/team 13 (sai ying pun)_siu ka sing (benny)_20.jpg","/public/images/team 9 (yau ma tei)_lam pak hei (jason) & chan lok hin (samuel)_63.jpg",0
+"/public/images/team 10 (causeway bay)_wong hao (isaac)_87.jpg","/public/images/team 5 (tai koo)_chen apple_61.jpg",0
+"/public/images/team 13 (sai ying pun)_wan hing yin (james)_86.jpg","/public/images/team 4 (north point)_li lok yin (stephy)_43.jpg",0
+"/public/images/team 12 (whampoa)_lam chun ho (johnny)_112.jpg","/public/images/team 5 (tai koo)_co sam wendell chen_197.jpg",0
+"/public/images/team 10 (causeway bay)_ng man yee (mandy)_68.jpg","/public/images/team 17 (kennedy town)_guo ruoxuan (tim)_74.jpg",1
+"/public/images/team 11 (wan chai)_cheng chak kong (kelvin)_180.jpg","/public/images/team 3 (sheung wan)_chan man tik (jacob)_83.jpg",0
+"/public/images/team 6 (kowloon tong)_wong ho yeung (brian) & chan yin kei (myron)_238.jpg","/public/images/team 5 (tai koo)_chen apple_87.jpg",0
+"/public/images/team 8 (central)_wu yee (yuki)_21.jpg","/public/images/team 9 (yau ma tei)_lam pak hei (jason) & chan lok hin (samuel)_127.jpg",1
+"/public/images/team 5 (tai koo)_chau chun yiu (daniel)_218.jpg","/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_445.jpg",0
+"/public/images/team 11 (wan chai)_wang yining (elaine)_105.jpg","/public/images/team 3 (sheung wan)_chan man tik (jacob)_122.jpg",1
+"/public/images/team 14 (tsim sha tsui)_fung ho kit (justin)_164.jpg","/public/images/team 10 (causeway bay)_lui yee ching (daphne)_308.jpg",0
+"/public/images/team 6 (kowloon tong)_kwok cheuk ki (jacky)_153.jpg","/public/images/team 14 (tsim sha tsui)_chan trisha_234.jpg",0
+"/public/images/team 14 (tsim sha tsui)_chan trisha_48.jpg","/public/images/team 12 (whampoa)_tam chin hang (nigel)_158.jpg",1
+"/public/images/team 2 (tsuen wan)_lee tsz ngai (jason)_158.jpg","/public/images/team 11 (wan chai)_wong hei lam (ryan) & chau chun hung (jaco)_224.jpg",0
+"/public/images/team 15 (prince edward)_soh wai heng_154.jpg","/public/images/team 10 (causeway bay)_ng man yee (mandy)_178.jpg",0
+"/public/images/team 15 (prince edward)_luk chin kiu (brian)_159.jpg","/public/images/team 6 (kowloon tong)_wong ho yeung (brian) & chan yin kei (myron)_144.jpg",1
+"/public/images/team 2 (tsuen wan)_yu pak yin (jarvis)_198.jpg","/public/images/team 5 (tai koo)_chau chun yiu (daniel)_76.jpg",1
+"/public/images/team 12 (whampoa)_tam chin hang (nigel)_155.jpg","/public/images/team 9 (yau ma tei)_hong han (sabrina) & shek vi qi (erika)_279.jpg",0
+"/public/images/team 13 (sai ying pun)_wan hing yin (james)_6.jpg","/public/images/team 3 (sheung wan)_wong sum yee (jenny)_239.jpg",1
+"/public/images/team 8 (central)_wu yee (yuki)_120.jpg","/public/images/team 4 (north point)_tang chun bun (chris)_128.jpg",1
+"/public/images/team 2 (tsuen wan)_motooka riria & gurung shirish_270.jpg","/public/images/team 3 (sheung wan)_chan man tik (jacob)_50.jpg",0
